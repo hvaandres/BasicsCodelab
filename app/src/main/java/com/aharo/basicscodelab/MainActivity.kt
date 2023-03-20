@@ -45,7 +45,7 @@ private fun MyApp(
             }
         }
 }
-
+// Composable
 @Composable
 private fun Greeting(name: String) {
 
